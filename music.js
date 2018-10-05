@@ -514,4 +514,4 @@ client.on('message', message =>{
     message.channel.send("تم الأتصال بالروم الصوتي")
 }})
 
-client.login('NDc3MDUwNzYyODAzOTM3Mjgw.Dk2klA.sDEH3iYy6SWVtSTf8fRBZTRBvV0');
+client.login('NDk3NzM4MjAyOTE2OTc4Njg4.Dpjj0Q.jrmm4LAyM7kjKl68pba24LvMeck');
